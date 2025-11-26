@@ -303,7 +303,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-3xl blur-3xl"></div>
               <div className="relative bg-gradient-to-br from-zinc-900/80 to-zinc-900/40 backdrop-blur-sm border border-white/10 rounded-3xl p-12">
                 <div className="space-y-8">
-                  {/* Animated data bars */}
+                  {/* Animated data bars
                   {[80, 95, 70, 88, 92].map((width, index) => (
                     <div key={index} className="space-y-2">
                       <div className="flex justify-between text-sm text-zinc-400">
@@ -317,15 +317,14 @@ export default function Home() {
                         ></div>
                       </div>
                     </div>
-                  ))}
-
+                  ))} */}
                   <div className="grid grid-cols-2 gap-6 pt-8">
                     <div className="bg-zinc-900/50 rounded-2xl p-6 border border-white/5">
                       <div className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-2">
                         500+
                       </div>
                       <div className="text-sm text-zinc-400">
-                        Projects Delivered
+                        Current clients
                       </div>
                     </div>
                     <div className="bg-zinc-900/50 rounded-2xl p-6 border border-white/5">
@@ -355,8 +354,8 @@ export default function Home() {
                 color: "from-blue-500 to-blue-600",
               },
               {
-                value: "200+",
-                label: "Data Projects",
+                value: "500+",
+                label: "Happy Clients",
                 color: "from-purple-500 to-purple-600",
               },
               {
