@@ -444,18 +444,32 @@ export default function Home() {
                   href="mailto:contact@ajs-services.com"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
-                  contact@ajs-services.com
+                  Joshfxbusiness@gmail.com
                 </a>
+                <a
+                  href="mailto:contact@ajs-services.com"
+                  className="block text-zinc-400 hover:text-white transition-colors"
+                ></a>
+                <a
+                  href="mailto:contact@ajs-services.com"
+                  className="block text-zinc-400 hover:text-white transition-colors"
+                >
+                  simmonsalfie1@gmail.com
+                </a>
+                <a
+                  href="mailto:contact@ajs-services.com"
+                  className="block text-zinc-400 hover:text-white transition-colors"
+                ></a>
                 <a
                   href="tel:+1234567890"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
-                  +1 (234) 567-890
+                  +1 (213) 801-0479
                 </a>
                 <div className="text-zinc-400 text-sm">
-                  123 Business Ave, Suite 100
+                  Flat 101, Al Fattan Tower, Sheikh Zayed Road, Dubai, United
                   <br />
-                  City, State 12345
+                  Arab Emirates
                 </div>
               </div>
             </div>
