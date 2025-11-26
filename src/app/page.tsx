@@ -146,7 +146,9 @@ export default function Home() {
                 <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mb-6 text-2xl group-hover:scale-110 transition-transform duration-300">
                   📊
                 </div>
-                <h3 className="text-2xl font-bold mb-4">Data Analysis</h3>
+                <h3 className="text-2xl font-bold mb-4">
+                  Expert Data Analysis
+                </h3>
                 <p className="text-zinc-400 leading-relaxed">
                   Transform raw data into meaningful insights through advanced
                   statistical analysis, pattern recognition, and comprehensive
