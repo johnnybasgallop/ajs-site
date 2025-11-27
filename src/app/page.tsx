@@ -441,7 +441,7 @@ export default function Home() {
               </h4>
               <div className="space-y-4">
                 <a
-                  href="mailto:contact@ajs-services.com"
+                  href="mailto:Joshfxbusiness@gmail.com"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
                   Joshfxbusiness@gmail.com
@@ -451,7 +451,7 @@ export default function Home() {
                   className="block text-zinc-400 hover:text-white transition-colors"
                 ></a>
                 <a
-                  href="mailto:contact@ajs-services.com"
+                  href="mailto:simmonsalfie1@gmail.com"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
                   simmonsalfie1@gmail.com
@@ -461,7 +461,7 @@ export default function Home() {
                   className="block text-zinc-400 hover:text-white transition-colors"
                 ></a>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+971 52 906 7543"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
                   +971 52 906 7543
