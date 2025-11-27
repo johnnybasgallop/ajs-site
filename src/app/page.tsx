@@ -464,10 +464,10 @@ export default function Home() {
                   href="tel:+1234567890"
                   className="block text-zinc-400 hover:text-white transition-colors"
                 >
-                  +1 (213) 801-0479
+                  +971 52 906 7543
                 </a>
                 <div className="text-zinc-400 text-sm">
-                  Flat 101, Al Fattan Tower, Sheikh Zayed Road, Dubai, United
+                  Dubai Digital Park, Dubai Silicon Oasis Building A1 Dubai
                   <br />
                   Arab Emirates
                 </div>
